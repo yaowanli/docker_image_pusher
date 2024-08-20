@@ -1,1 +1,4 @@
-nginx
+openmetadata/db:1.4.7
+elasticsearch/elasticsearch:8.10.2
+openmetadata/server:1.4.7
+openmetadata/ingestion:1.4.7
